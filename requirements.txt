@@ -1,0 +1,10 @@
+pandas
+numpy
+chardet
+django
+matplotlib
+seaborn
+echarts-python
+openpyxl
+xlrd
+requests
